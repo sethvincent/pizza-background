@@ -1,0 +1,13 @@
+{
+  "name": "pizza-background",
+  "version": "1.0.0",
+  "description": "fill the background of an element with pizza",
+  "style": "style.css",
+  "keywords": ["css", "pizza"],
+  "author": "sethvincent",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethvincent/pizza-background.git"
+  },
+  "license": "MIT"
+}
